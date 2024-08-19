@@ -3,4 +3,5 @@
 Meu nome é Amanda Gonçalves;
 
 -Estou estudando no Alura;
--Estou me desensolvendo na linguagem jovem 
+-Estou me desensolvendo na linguagem jovaScript;
+-Utilizo esse espaço para minha oraganização 
