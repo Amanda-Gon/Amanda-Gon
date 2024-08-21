@@ -6,4 +6,4 @@ Meu nome é Amanda Gonçalves;
 -Estou me desensolvendo na linguagem jovaScript;
 -Utilizo esse espaço para minha oraganização 
 
-![](https://tenor.com/pt-BR/view/dog-cute-dog-happy-dog-funny-dog-happy-gif-17984067533174306076) 
+![](https://media1.tenor.com/m/-ZQ-I0N9dRwAAAAC/dog-cute-dog.gif) 
